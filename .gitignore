@@ -61,3 +61,8 @@ target/
 # Cookiecutter
 output/
 boilerplate/
+
+# Virtual environment (Windows)
+Lib/
+Scripts/
+Include/
